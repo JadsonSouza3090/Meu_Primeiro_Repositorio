@@ -1,4 +1,4 @@
-# Meu_Primeiro_Repositorio
+# Meu_Primeiro_Repositório
 Breve descrição sobre minhas atribuições (Aprendendo Git/GitHub na DIO)
 
 ## Meu Perfil no LinkedIn 
